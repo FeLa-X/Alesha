@@ -1,0 +1,243 @@
+{
+  "user": {
+    "66810681235@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "601111030158@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6283832242065@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6281251767935@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "62895417277332@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6285254337661@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6283826148348@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    }
+  },
+  "group": {
+    "120363330461586224@g.us": {
+      "mute": false,
+      "sewa": {
+        "status": false,
+        "expired": 0
+      },
+      "message": 0,
+      "status": "not_announcement"
+    }
+  },
+  "changelog": {},
+  "settings": {
+    "self": false,
+    "setbio": true,
+    "online": true,
+    "anticall": false,
+    "readStatus": true,
+    "blockcmd": [],
+    "max_upload": "50MB",
+    "resetlimit": "02:00"
+  }
+}
